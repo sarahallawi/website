@@ -1,0 +1,162 @@
+[
+    {
+        "city": "دمشق ",
+        "dital": "شقة ثلاث غرف وصالة مساحة 120 م ",
+        "price": "1000000",
+        "masaha": "16م",
+        "area": "ركن الدين",
+        "have": "طابو",
+        "gar": "نعم",
+        "mafrosha": "نعم",
+        "floor": "الثالث",
+        "img1":"./images/IMG-20240602-WA0113.jpg",
+        "img2":"./images/IMG-20240602-WA0129.jpg",
+        "img3":"./images/IMG-20240602-WA0142.jpg"
+        
+
+    }
+    ,
+    {
+        "city": "دمشق",
+        "dital": "شقة غرقتين وصالة مساحة 70 م ",
+        "price": "400000",
+        "masaha": "10م",
+        "area": "العدوي",
+        "have": "طابو",
+        "gar": "نعم",
+        "mafrosha": "لا",
+        "floor": "الثاني",
+        "img1":"./images/IMG-20240602-WA0144.jpg",
+        "img2":"./images/IMG-20240602-WA0131.jpg",
+        "img3":"./images/IMG-20240602-WA0122.jpg"
+
+    }
+   ,
+   {
+     "city": "ريف دمشق",
+   "dital": "شقة أربع غرف وصالة مساحة 150 م ",
+   "price": "1300000",
+   "masaha": "20م",
+   "area": "مشروع دمر",
+   "have": "طابو",
+   "gar": "نعم",
+   "mafrosha": "نعم",
+   "floor": "الاول",
+   "img1":"./images/IMG-20240602-WA0138.jpg",
+   "img2":"./images/IMG-20240602-WA0139.jpg",
+   "img3":"./images/IMG-20240602-WA0136.jpg"
+    
+
+}
+,
+{ 
+    "city": "ريف دمشق",
+"dital": "شقة خمس غرف وصالة مساحة 200 م ",
+"price": "1500000",
+"masaha": "30م",
+"area": "ضاحية قدسيا",
+"have": "طابو",
+"gar": "نعم",
+"mafrosha": "نعم",
+"floor": "الثاني",
+"img1":"./images/IMG-20240602-WA0137.jpg",
+"img2":"./images/IMG-20240602-WA0134.jpg",
+"img3":"./images/IMG-20240602-WA0123.jpg"
+ 
+
+}
+,
+{ 
+    "city": " حلب",
+"dital": "شقة غرفتين وصالة مساحة 75 م ",
+"price": "300000",
+"masaha": "0",
+"area": " الشهباء",
+"have": "طابو",
+"gar": "نعم",
+"mafrosha": "نعم",
+"floor": "الأرضي",
+"img1":"./images/IMG-20240602-WA0130.jpg",
+"img2":"./images/IMG-20240602-WA0136.jpg",
+"img3":"./images/IMG-20240602-WA0117.jpg"
+ 
+
+}
+,
+{
+ "city": " حلب",
+"dital": "شقة اربع غرف وصالة مساحة 110 م ",
+"price": "700000",
+"masaha": "10م",
+"area": " حلب الجديدة",
+"have": "طابو",
+"gar": "نعم",
+"mafrosha": "نعم",
+"floor": "الأول",
+"img1":"./images/IMG-20240602-WA0116.jpg",
+"img2":"./images/IMG-20240602-WA0115.jpg",
+"img3":"./images/IMG-20240602-WA0119.jpg"
+}
+,
+{
+    "city": " حمص",
+    "dital": "شقة غرفتين وصالة مساحة 90م",
+    "price": "400000",
+    "masaha": "0م",
+    "area": "الرستن",
+    "have": "طابو",
+    "gar": "نعم",
+    "mafrosha": "لا",
+    "floor": "الرابع",
+    "img1":"./images/IMG-20240602-WA0124.jpg",
+    "img2":"./images/IMG-20240602-WA0125.jpg",
+    "img3":"./images/IMG-20240602-WA0126.jpg"
+    }
+,
+{
+"city": " حمص",
+"dital": "شقة غرفة وصالة مساحة 70م",
+"price": "250000",
+"masaha": "7م",
+"area": "القصور",
+"have": "طابو",
+"gar": "نعم",
+"mafrosha": "نعم",
+"floor": "الثالث",
+"img1":"./images/IMG-20240602-WA0130.jpg",
+"img2":"./images/IMG-20240602-WA0142.jpg",
+"img3":"./images/IMG-20240602-WA0132.jpg"
+}
+,
+{
+    "city": "اللاذقية",
+    "dital": "شقة ثلاث غرف وصالة مساحة 100م",
+    "price": "600000",
+    "masaha": "13م",
+    "area": "كورنيش الجنوبي",
+    "have": "طابو",
+    "gar": "نعم",
+    "mafrosha": "نعم",
+    "floor": "الثاني",
+    "img1":"./images/IMG-20240602-WA0137.jpg",
+    "img2":"./images/IMG-20240602-WA0113.jpg",
+    "img3":"./images/IMG-20240602-WA0143.jpg"
+}
+,
+{
+    "city": "اللاذقية",
+    "dital": "شقة غرفة وصالة مساحة 60م",
+    "price": "350000",
+    "masaha": "0",
+    "area": "حي تشرين",
+    "have": "طابو",
+    "gar": "نعم",
+    "mafrosha": "نعم",
+    "floor": "الثالث",
+    "img1":"./images/IMG-20240602-WA0123.jpg",
+    "img2":"./images/IMG-20240602-WA0117.jpg",
+    "img3":"./images/IMG-20240602-WA0135.jpg"
+
+}
+
+]
